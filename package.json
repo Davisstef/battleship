@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/Davisstef/battleship/issues"
   },
-  "homepage": "https://github.com/Davisstef/battleship#readme"
+  "homepage": "https://github.com/Davisstef/battleship#readme",
+  "dependencies": {
+    "express": "^4.17.3"
+  }
 }
