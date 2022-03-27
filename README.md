@@ -1,2 +1,2 @@
-# battleship
+# Battleship
 Battleship Game for Lighthouse Labs
